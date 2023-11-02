@@ -10,7 +10,7 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Antonija Paradžika, index:0167216313");
+            Console.WriteLine("Pozdrav iz aplikacije od Antonija Paradžika");
         }
     }
 }
